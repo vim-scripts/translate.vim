@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=81
+
+This script looks up a word in a
+dictionary file using egrep (you can change this to grep, of course).
+When the word was found, a new window with the search results is opened at the bottom of the screen.
+
+This script was inspired by Emacs' translate.el.
